@@ -18,16 +18,12 @@ public class SobrieteMeilleur {
             for (int j = 0; j < result.size(); j++) {
                 if (result.get(j).charAt(0) == ordre.get(i)) {
                     // ... on les déplace au début de la liste ...
-                    deplacerElement(result, j, 0);
+                    String elt = result.get(j);
+                    result.remove(j);
+                    result.add(0, elt);
                 }
             }
         }
         return result;
-    }
-
-    public static void deplacerElement(List<String> liste, int indexBase, int indexDestination) {
-        String elt = liste.get(indexBase);
-        liste.remove(indexBase);
-        liste.add(indexDestination, elt);
     }
 }
