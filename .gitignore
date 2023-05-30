@@ -29,3 +29,6 @@ hs_err_pid*
 README.pdf
 .DS_Store
 .vscode
+
+bin/
+.settings/
