@@ -1,38 +1,37 @@
 package exercice;
-
 import java.util.List;
 import java.util.ArrayList;
 
 public class EfficaciteMeilleur {
-    public static List<String> solution(String str, List<Character> ordre) {
-        List<String> result = new ArrayList<String>();
+public static List<String> solution(String s, List<Character> o) {
+List<String> r = new ArrayList<String>();
 
-        ArrayList<String> listeMots = new ArrayList<String>();
-        String to_add = "";
-        for (int i = 0; i <= str.length(); i++) {
-            if (i == str.length()) {
-                listeMots.add(to_add);
-            } else if (str.charAt(i) == ' ') {
-                listeMots.add(to_add);
-                to_add = "";
-            } else {
-                to_add += str.charAt(i);
-            }
-        }
+ArrayList<String> lm = (new ArrayList<String>());
+String ad = "";
+for (int i = 0; i <= s.length(); i++) {
+if (i == s.length()) {
+lm.add(ad);
+} else if (s.charAt(i) == ' ') {
+lm.add(ad);
+ad = "";
+} else {
+ad += s.charAt(i);
+}
+}
 
-        for (int i = 0; i < ordre.size(); i++) {
-            for (int j = 0; j < listeMots.size(); j++) {
-                if (listeMots.get(j).charAt(0) == ordre.get(i)) {
-                    result.add(listeMots.get(j));
-                    listeMots.remove(j);
-                }
-            }
-        }
-        for (int i = 0; i < listeMots.size(); i++) {
-            if (listeMots.get(i) != null) {
-                result.add(listeMots.get(i));
-            }
-        }
-        return result;
-    }
+for (int i = 0; i < o.size(); i++) {
+for (int j = 0; j < lm.size(); j++) {
+if (o.get(i) == lm.get(j).charAt(0)) {
+r.add(lm.get(j));
+lm.remove(j);
+}
+}
+}
+for (int i = 0; i < lm.size(); i=i+1) {
+if (lm.get(i) != null) {
+r.add(lm.get(i));
+}
+}
+return r;
+}
 }

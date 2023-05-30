@@ -9,6 +9,7 @@ public class Main {
         System.out.println(SimpliciteMeilleur.solution(texte, ordre));
         System.out.println(EfficaciteMeilleur.solution(texte, ordre));
         System.out.println(SobrieteMeilleur.solution(texte, ordre));
+        System.out.println(SimplicitePire1.solution(texte, ordre));
         // output: [classer, texte, exemple, a, de]
     }
 }

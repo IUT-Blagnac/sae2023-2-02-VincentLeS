@@ -3,7 +3,7 @@
           SimplicitePire1{public          static List<String> solution(
           String s,List<Character        >o){List<String>r=new ArrayList
             <String  >();ArrayList      <String> lm=  ( new     ArrayList
-            <String  >());String ad    =" "; for(int  i=0;i    <=s.length
+            <String  >());String ad    ="";for(int i  =0 ;i    <=s.length
             ();i++)  {if(i== s.length()) {lm.add(ad)  ;} else if (  s.
             charAt(  i)==' ') {lm.add(ad) ; ad=""; }  else {ad+=s.
             charAt(  i);}}for  (int i=0;i   <o.size(  );i++){for(int j
