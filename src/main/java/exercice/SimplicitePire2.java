@@ -1031,6 +1031,7 @@ public class SimplicitePire2 {
                             * Personne ne sait à quoi ça sert
                             */
                         str.split( /*
+                                    * STR SPLIT
                                     * (Parodie de la chanson "Banana Split")
                                     * 
                                     * (Refrain)
@@ -6525,4 +6526,431 @@ public class SimplicitePire2 {
  * Copyright © 1993, 2023, Oracle and/or its affiliates. All rights reserved.
  * Use is subject to license terms. Also see the documentation redistribution
  * policy. Modify Préférences en matière de cookies. Modify Ad Choices.
+ */
+
+// TODO : Tuto, Comment couler une dalle ?
+/*
+ * Je déménage dans ma nouvelle maison à la campagne, je ne pourrai pas me
+ * connecter à Internet pour trouver de tuto en ligne. J'ai besoin de ce
+ * tutoriel, car ma maison est en chantier, et je dois encore couler ma
+ * dalle. Merci de ne pas supprimer, sinon je n'aurai accès à ce tutoriel !
+ */
+
+/*
+ * 
+ * Continuer sans accepter→Logo*
+ * On s’est mis
+ * aux cookies!*
+ * On vous
+ * explique notre recette.**
+ * Chez ManoMano
+ * on utilise
+ * 
+ * des cookies (et nos partenaires aussi). Comme ça on
+ * peut optimiser votre expérience de navigation, mesurer et analyser la
+ * performance du site et afficher des contenus et publicités personnalisés. Et
+ * ça concerne, manomano.fr, conseil.manomano.fr, blog.manomano.fr et
+ * pro.manomano.fr
+ * 
+ * Mais vous n’êtes pas obligés d’accepter tous les cookies. Ça évite
+ * l’indigestion.
+ * 
+ * [MODE D’EMPLOI]
+ * 
+ * En cliquant sur “Autoriser et fermer”, vous acceptez l’utilisation de nos
+ * cookies. Pour refuser les cookies non-nécessaires cliquez sur “Continuer sans
+ * accepter”. Vous pouvez changer d’avis, quand vous le voulez, et modifier vos
+ * choix en vous rendant sur “Paramétrer mes cookies” en bas de page. Pour
+ * afficher le détail des cookies utilisés, et affiner vos choix, cliquez sur
+ * "Paramétrer".
+ * 
+ * Voilà vous savez tout. Et si vous en redemandez on a aussi
+ * 
+ * une (très bonne)
+ * page sur politique de confidentialité.
+ * 
+ * 
+ * Paramétrer
+ * Autoriser et fermer
+ * 
+ * 🚚 Exclu appli : livraison offerte* !
+ * Qui sommes-nous
+ * 
+ * Bonjour
+ * Identifiez-vous
+ * Je suis un particulier
+ * Accéder à mon compte
+ * Je suis un Pro
+ * Accéder aux prix Pro
+ * 
+ * Menu
+ * Rechercher un produit, une marque ou un conseil
+ * 
+ * 
+ * 🔴 Bons plans
+ * 🏡 Essentiels Saison
+ * 💧 Économie d'eau
+ * ⚡Economie d'énergie
+ * Rafraîchir sa maison
+ * ♻️ Seconde vie
+ * Pièces
+ * Top ventes
+ * 
+ * Comment couler une dalle en béton
+ * Comment couler une dalle en béton
+ * Michel, Soudeur professionnel passionné, Vendée
+ * Guide écrit par:
+ * 
+ * Michel, Soudeur professionnel passionné, Vendée
+ * 
+ * 181 guides
+ * 
+ * Couler une dalle en béton consiste à décaisser à la pelle et damer sable et
+ * pierres concassées, réaliser un coffrage, poser du treillis, préparer le
+ * béton à la bétonnière, le couler, le lisser, le laisser sécher et faire des
+ * joints de fractionnement. Ce guide explique toutes les étapes pour faire une
+ * dalle en béton.
+ * Caractéristiques importantes
+ * Stabiliser et compacter l'emplacement de la dalle
+ * Réaliser le coffrage de la dalle
+ * Poser le polyane et le treillis
+ * Préparer le béton et le couler
+ * Faire des joints de fractionnement ou dilatation
+ * Voir les sacs de ciment !
+ * L'avantage de couler une dalle en béton
+ * 
+ * Aménager les extérieurs d'une maison conduit souvent à envisager
+ * l'installation d'un abri de jardin, d'une terrasse où l'on dispose une
+ * tonnelle, un salon de jardin, un barbecue ou encore une plancha. Afin
+ * d'assurer la pérennité de ces annexes, un sol en dur est conseillé. En effet,
+ * les remontées d'humidité ont tendance à endommager les abris de jardin et si
+ * vous désirez une terrasse carrelée, vous n'avez d'autre moyen que de
+ * construire une dalle. Envisager de faire ces travaux soi-même, accompagné
+ * d'un ami assistant, est tout à fait envisageable à condition de planifier le
+ * chantier, disposer des bons outils et assimiler le savoir-faire explicité
+ * dans ce guide.
+ * 
+ * Étapes de réalisation
+ * Stabiliser et compacter l'emplacement de la dalle
+ * Réaliser le coffrage de la dalle
+ * Poser le polyane et le treillis
+ * Préparer le béton et le couler
+ * Faire des joints de fractionnement ou dilatation
+ * Voir le catalogue ManoMano
+ * Ciment
+ * Couler une dalle en béton : les gestes en vidéo
+ * 
+ * 1. Stabiliser et compacter l'emplacement de la dalle
+ * 1. Stabiliser et compacter l'emplacement de la dalle
+ * Si on veut réaliser une dalle de béton, il faut prévoir de décaisser
+ * l'emplacement de 15 cm sous la dalle. Brouette et pelles sont donc
+ * nécessaires pour évacuer les gravats et la terre pour les surfaces
+ * inférieures à 10 m². Au-delà, une mini-pelle peut être louée à la journée
+ * pour vous éviter de décaisser à la pelle.
+ * 
+ * Reportez au sol avec le mètre les mesures de la dalle et placez des piquets
+ * dans les angles grossièrement.
+ * Vérifiez l'équerrage et ajustez les piquets pour que votre base soit parfaite
+ * (vérifiez l'équerrage en utilisant le théorème de Pythagore en mesurant la
+ * diagonale du quadrilatère tracé). Selon votre prise de mesures, vous placerez
+ * les planches de coffrage à l'intérieur ou à l'extérieur du cordeau qui relie
+ * les 4 piquets.
+ * Comment couler une dalle en béton
+ * Commencez le décaissement avec la pelle ou la mini-pelle selon la surface à
+ * décaisser.
+ * Une fois décaissé l'emplacement de la future dalle, avec un râteau, assurez
+ * la mise à niveau sommaire.
+ * Apportez le mélange pierres concassées et sable que l'on trouve souvent
+ * préparé et dosé chez le distributeur. Vous pouvez aussi mettre en premier les
+ * pierres concassées sur 10/12 cm et ensuite le sable sur 5/3 cm. Cette couche
+ * est appelée hérisson et permet le drainage.
+ * Remplissez le décaissement de ce mélange sur une hauteur de 15 cm au total.
+ * Damez et compactez cette surface à l'aide d'une dame de maçon ou d'un
+ * compacteur vibrant si la surface l'exige.
+ * Vérifiez le niveau sommairement et égalisez si nécessaire.
+ * Le décaissement est hors épaisseur de dalle. Si vous prévoyez de couler une
+ * dalle de 10 cm d'épaisseur pour y installer un abri de jardin, le fond de
+ * votre décaissement doit se situer à 22 cm de profondeur (15 cm pour le
+ * mélange pierres concassées et sable et 7 cm de dalle enfouie) pour ne laisser
+ * apparaitre que 3 cm de dalle.
+ * Voir le catalogue ManoMano
+ * Compacteur vibrant
+ * 2. Réaliser le coffrage de la dalle
+ * 2. Réaliser le coffrage de la dalle
+ * Utilisez des madriers ou des planches épaisses pour construire le coffrage
+ * (27 mm).
+ * Placez les planches de coffrage à l'intérieur ou à l'extérieur du cordeau
+ * selon votre prise de mesures. Si vous vous trompez, votre dalle peut être 5
+ * cm plus grande ou plus petite de côtés.
+ * Servez-vous de fers à béton pour les maintenir en place ou de piquets en
+ * bois.
+ * Vérifiez avec précision le niveau des madriers et les dimensions de votre
+ * dalle puis bloquez définitivement le coffrage avec des fers à béton. Vous
+ * pouvez clouer les planches de coffrage entre elles mais n'enfoncez pas à fond
+ * les pointes pour pouvoir les retirer facilement.
+ * A l'aide d'un cordeau traceur et d'une règle de maçon, marquez sur les
+ * madriers le niveau final de votre dalle.
+ * Voir le catalogue ManoMano
+ * Règle de maçon
+ * 3. Poser le polyane et le treillis
+ * 3. Poser le polyane et le treillis
+ * A l'intérieur du coffrage, recouvrez le mélange d'un polyane ou d'un film
+ * plastique d'étanchéité pour éviter les remontées d'humidité. S'il doit être
+ * posé en plusieurs bandes, observez un recouvrement de 10 à 15 cm sur chaque
+ * bande. Il recouvre obligatoirement toute la surface de la dalle.
+ * Si vous utilisez un béton manufacturé comportant des fibres structurelles, il
+ * n'est pas nécessaire d'armer le béton. Si ce n'est pas le cas, placez un
+ * treillis métallique soudé. Idéalement, le treillis est surélevé avec des
+ * pierres pour qu'il se positionne dans l'épaisseur de la dalle. Vous le coupez
+ * au besoin avec un coupe-boulon et vous le placez en retrait de 5 cm environ
+ * des bords de la dalle. Lorsque plusieurs plaques de treillis sont posées,
+ * elles se chevauchent d'environ 10/15 cm et sont ligaturées entre elles.
+ * Si vous avez des gaines électriques ou de la tuyauterie à placer,
+ * maintenez-les en position avec des petits piquets de fer.
+ * Voir le catalogue ManoMano
+ * Coupe-boulon
+ * 4. Préparer le béton et le couler
+ * 4. Préparer le béton et le couler
+ * Le volume de béton à couler est fonction de la surface de la dalle soit de
+ * son volume ; l'épaisseur de la dalle est fonction de la charge qu'elle doit
+ * supporter :
+ * 
+ * entre 8 et 10 cm d’épaisseur pour une dalle béton de terrasse et pour une
+ * assise d'abri de jardin ;
+ * 15 cm d'épaisseur pour une dalle en béton armé de plancher ;
+ * entre 15 et 20 cm d’épaisseur pour une dalle béton armé de garage.
+ * Dosage de ciment, sable, gravier et eau pour une dalle en béton
+ * 1 m² de dalle béton de 10 cm d’épaisseur dont 7 cm enfouis et 3 cm hors sol
+ * représente un volume de béton de 0.1 m3 (1 x 1 x 0.1) soit 1 m3 de béton pour
+ * 10 m².
+ * 
+ * Calcul du dosage pour 1 m3
+ * Béton
+ * 
+ * Ciment
+ * 
+ * Gravier
+ * 
+ * Sable
+ * 
+ * Eau
+ * 
+ * Béton dallage
+ * 
+ * 300 kg
+ * 
+ * 1100 kg
+ * 
+ * 830 kg
+ * 
+ * 155 l
+ * 
+ * Béton dallage armé
+ * 
+ * 400 kg
+ * 
+ * 980 kg
+ * 
+ * 720 kg
+ * 
+ * 195 l
+ * 
+ * Calcul du dosage pour 1 m² de dalle béton non armé
+ * 1 m3 de béton non armé représente 300 kg de ciment, 830 kg de sable, 1100 kg
+ * de gravier et 155 l d’eau soit pour 1 m² de dalle bétonnée de 10 cm
+ * d’épaisseur :
+ * 
+ * 30 kg de ciment ;
+ * 83 kg de sable ;
+ * 110 kg de gravier ;
+ * 15.5 l d’eau.
+ * Calcul du dosage pour 1 m² de dalle béton armé
+ * 1 m3 de béton armé représente 400 kg de ciment, 720 kg de sable, 980 kg de
+ * gravier et 195 l d’eau soit pour 1 m² de dalle bétonnée de 10 cm d’épaisseur
+ * :
+ * 
+ * 40 kg de ciment ;
+ * 72 kg de sable ;
+ * 98 kg de gravier ;
+ * 19.5 l d’eau.
+ * A noter que l'option de faire livrer le béton manufacturé par une toupie est
+ * un gain de temps non négligeable. Toutefois des quantités minimum sont
+ * requises pour être rentable.
+ * 
+ * Répartissez le béton uniformément dans le coffrage en reculant.
+ * Une fois le niveau final de la dalle atteint, sans attendre utilisez une
+ * barre à débuller qui sert à enlever les poches d'air dans le béton et à
+ * optimiser le nivelage de la surface.
+ * Croisez les passages pour bien traiter toute la surface.
+ * Nettoyage des outils
+ * Nettoyez lorsque vous avez fini vos outils à l'eau courante :
+ * 
+ * barre à débuler ;
+ * bétonnière ;
+ * seau ;
+ * bottes.
+ * Voir le catalogue ManoMano
+ * Barre à débuller
+ * 5. Faire des joints de fractionnement ou dilatation
+ * 5. Faire des joints de fractionnement ou dilatation
+ * 36 à 48 heures plus tard, la dalle est sèche.
+ * 
+ * Vérifiez le niveau de l'ensemble puis à l'aide d'une meuleuse, il faut
+ * procéder à la réalisation des joints de fractionnement qui permettent la
+ * dilatation de
+ * 
+ * la dalle (un joint de fractionnement pour 15 m² environ).
+ * Placez un disque diamant sur la meuleuse et après avoir tracé les
+ * emplacements au cordeau, rainurez la dalle sur une profondeur de 5 cm.
+ * Enlevez le coffrage en bois, il ne doit pas y avoir de bulles d'air lorsqu'on
+ * inspecte la dalle sur son épaisseur.
+ * Voir le catalogue ManoMano
+ * Disque diamant
+ * Ce qu'il faut prévoir pour couler une dalle en béton
+ * Savoir-faire
+ * 
+ * Savoir utiliser une pelle, un râteau, une règle de maçon, assembler quelques
+ * planches pour construire un coffrage puis préparer ou commander du béton pour
+ * couler un volume de béton préalablement calculé sont les postulats pour
+ * réussir le chantier. Être en bonne condition physique et pouvoir travailler
+ * accroupi est indispensable. Pour le reste, il faut faire bon du premier coup
+ * pour obtenir un résultat convenable.
+ * 
+ * Temps de réalisation
+ * 
+ * 8 heures environ, selon la surface de la dalle à couler.
+ * 
+ * Nombre de personnes
+ * 
+ * 2 personnes
+ * 
+ * Outils et consommables
+ * 
+ * Mètre ou décamètre, cordeau à tracer
+ * Règle de maçon, équerre à chapeau
+ * Niveau à bulle ou niveau laser
+ * Scie à bois, marteau, coupe-boulon
+ * Seau de maçon, brouette et bétonnière
+ * Dame ou compacteur vibrant
+ * Volume de grave (gravier + sable), madriers ou planches solides
+ * Polyane ou film plastique d'étanchéité
+ * Treillis soudé et fers à béton
+ * Ciment + gravier + sable ou béton manufacturé
+ * Barre à débuller, meuleuse 230 mm avec disque diamant
+ * Équipements de protection individuelle
+ * 
+ * Casque de chantier
+ * Chaussures de sécurité et bottes caoutchouc.
+ * Vêtement de travail
+ * Lunettes de sécurité
+ * Gants de protection
+ * Protections auditives
+ * Cette liste est non exhaustive, les équipements de protection individuelle
+ * sont à adapter à chaque situation de travail.
+ * 
+ * Voir le catalogue ManoMano
+ * Equipements de protection individuelle
+ * En savoir plus sur les terrasses en bois et en bois composite
+ * Comment faire une terrasse en bois sur plots
+ * Comment choisir une terrasse en bois
+ * Caillebotis ou lames de terrasse
+ * Comment choisir des lames de terrasse et caillebotis
+ * Comment choisir ses caillebotis
+ * Comment choisir ses lames de terrasse
+ * Comment choisir des lames de terrasse en bois composite
+ * Comment poser des lames de terrasse bois sur lambourdes
+ * Comment nettoyer une terrasse
+ * Comment choisir un ciment
+ * Tout savoir sur le béton et le mortier
+ * Comment choisir sa taloche et sa truelle
+ * Comment choisir sa benne à béton
+ * Comment choisir sa bétonnière
+ * Comment couler une dalle en béton
+ * Comment vibrer le béton ou comment choisir une aiguille vibrante et un
+ * hélicoptère
+ * Ponceuse béton : comment choisir
+ * Comment construire un mur en parpaing
+ * Ces guides pourraient vous intéresser
+ * Comment choisir sa scie à sol
+ * Comment choisir sa scie à matériaux
+ * 
+ * Voir les sacs de ciment !
+ * Guide écrit par:
+ * 
+ * Michel, Soudeur professionnel passionné, Vendée, 181 guides
+ * 
+ * Michel, Soudeur professionnel passionné, Vendée
+ * J’ai acquis une formation de tôlier, de tuyauteur/soudeur et après avoir
+ * parcouru pendant trente cinq ans les chantiers de France et du Benelux, je
+ * suis devenu responsable d’une chaudronnerie puis projeteur, ingénieur de
+ * projets pour finir chef d’établissement ingénierie. Retraité, j’ai aménagé et
+ * équipé un atelier où je réalise des sculptures métalliques : j’ai réussi à
+ * combiner et aménager un coin de paradis ou j’aime laisser libre cours à mon
+ * imagination. Les casses et les vide-greniers n’ont plus de secrets pour moi.
+ * J’y trouve des objets insolites et des vieux outils que je collectionne ou
+ * que je transforme en objet d’art.J’aime aussi la décoration, la peinture sur
+ * toile et le jardinage. Je suis l’évolution des nouvelles technologies
+ * concernant les outils. Faire partager ma passion et vous conseiller
+ * humblement dans vos choix de matériel est un réel plaisir.
+ * 
+ * 
+ * Des millions de produits
+ * 
+ * 
+ * Livraison chez vous ou en point relais
+ * 
+ * 
+ * Des centaines d'experts en ligne
+ * 
+ * Vous êtes un professionnel ?Vos grandes marques à prix négocié sont
+ * ici.Réservé aux Pros
+ * 
+ * Espace Pro
+ * 
+ * Envie de
+ * 
+ * recevoir des (bons) conseils et des promos ?Inscrivez-vous à la
+ * newsletter ManoMano !
+ * 
+ * S'inscrire
+ * Votre adresse email sera uniquement utilisée pour vous envoyer nos
+ * newsletters. Vous pourrez vous désabonner via le lien intégré dans la
+ * newsletter. En savoir plus sur la gestion de vos données et vos droits.
+ * 
+ * Découvrez l'application ManoMano+ 6 millions de produits dans votre poche
+ * Télécharger dans l'App StoreDisponible sur Google Play
+ * Paiement sécurisé
+ * CBVisaMastercardPaypalOneyBank Transfer
+ * 
+ * Rejoignez-nousLa magie de l’internet mondial !
+ * Twitter
+ * Facebook
+ * Pinterest
+ * Instagram
+ * 
+ * ManoMano infosCoin renseignements
+ * Suivi de commande
+ * Besoin d’aide ?
+ * Nous contacter
+ * Qui sommes-nous ?
+ * Devenir marchand
+ * Contact Presse
+ * Nous rejoindre
+ * Programme d’Affiliation
+ * 
+ * Conseils, produits, prixVous allez tout savoir par ici
+ * Nos bons conseils
+ * Nos top catégories de produits
+ * Nos comparatifs
+ * Nos marques
+ * 
+ * InternationalEt bientôt présents sur Mars !
+ * ManoMano IT
+ * ManoMano UK
+ * ManoMano DE
+ * ManoMano ES
+ * 
+ * ©2023 ManoManoParamétrer mes cookiesPlan du siteMentions légalesProtection
+ * des donnéesConditions générales d'utilisationInfos consommateurs
+ * 
  */
