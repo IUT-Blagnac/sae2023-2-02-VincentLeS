@@ -10,6 +10,6 @@
 =0;j<lm.    size();  j++){if(   o.get(i)    ==lm.get  (j).       charAt(0)
 ){r.add(   lm.get(j  )) ; lm.    remove     (j);}}}   for        (int i=0;
 i<lm.size ();i=i+1)  {if (lm.               get( i)!=null){r.add(lm .get
- (i));r.add(lm.get   (i)); }}               return  (r);} public static
-   void useless(     ){System               .out.println("Et voilà!");
+  (i));}}return(r)   ;}public               static void useless(){System.
+   out.println()     ;System.               out.println("Et voilà!");
     System.out.      println(               "Fin du programme");}}
