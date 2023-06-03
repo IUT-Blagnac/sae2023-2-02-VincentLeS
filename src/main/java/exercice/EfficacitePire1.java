@@ -3,24 +3,49 @@ package exercice;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class EfficacitePire1 {
     public static List<String> solution(String str, List<Character> ordre) {
-        List<String> result = new ArrayList<String>();
+        List<String> result = new ArrayList<String>(Arrays.asList(str.split(" ")));
 
-        ArrayList<String> listeMots = new ArrayList<String>(Arrays.asList(str.split(" ")));
+        List<String> answer = verification(str, ordre);
 
-        for (int i = 0; i < ordre.size(); i++) {
-            for (int j = 0; j < listeMots.size(); j++) {
-                if (listeMots.get(j).charAt(0) == ordre.get(i)) {
-                    result.add(listeMots.get(j));
-                    listeMots.remove(j);
-                }
+        int i = 0;
+
+        long start = System.currentTimeMillis();
+        while(!result.equals(answer)) {
+            Collections.shuffle(result);
+            i++;
+
+            //Activer ou désactiver l'affichage des itérations
+
+            //!\\ Activer ceci ralentit CONSIDERABLEMENT l'exécution du programme //!\\
+
+            if (false) {
+                System.out.println("Itrération " + i + " : " + result.toString());
             }
         }
-        for (int i = 0; i < listeMots.size(); i++) {
-            if (listeMots.get(i) != null) {
-                result.add(listeMots.get(i));
+        
+        long stop = System.currentTimeMillis();
+
+        long elapsedTime = stop - start;
+
+        System.out.println("[EfficacitePire1] - Résolu en " + elapsedTime + "ms, " + i + " itérations.");
+
+        return result;
+    }
+    
+    public static List<String> verification(String str, List<Character> ordre) {
+        List<String> result = new ArrayList<String>(Arrays.asList(str.split(" ")));
+
+        for (int i = ordre.size() - 1; i >= 0; i--) {
+            for (int j = 0; j < result.size(); j++) {
+                if (result.get(j).charAt(0) == ordre.get(i)) {
+                    String elt = result.get(j);
+                    result.remove(j);
+                    result.add(0, elt);
+                }
             }
         }
         return result;
